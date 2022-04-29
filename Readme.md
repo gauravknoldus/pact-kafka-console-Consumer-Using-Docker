@@ -5,4 +5,4 @@ sudo docker-compose up
 
 ## Run the producer Test cases.
 
-
+mvn test
