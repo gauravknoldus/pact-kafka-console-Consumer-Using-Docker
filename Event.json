@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "3.1",
+  "timestamp": "2021-09-08T19:43:43.415Z",
+  "effectiveDatetime": "2021-09-08T19:00:00Z",
+  "tenantId": "5923a6e3_32dav",
+  "correlationId": "829c6d7",
+  "aggregateId": "767ad7dba",
+  "sequenceNumber": 0,
+  "validation": "VALID",
+  "contentType": "application/json",
+}
+git
